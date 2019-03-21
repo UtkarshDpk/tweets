@@ -1,1 +1,2 @@
-# tweets
+# Hawkes Process
+This thesis is one of the ﬁrst attempts to develop a computationally eﬃcient power law distribution function to be used as a kernel in Hawkes process. Hawkes processes, a type of stochastic processes, are a growing source of interest to model point processes as they are non-Markovian extension of non-homogeneous Poisson process. Their application range from modelling stock prices to predicting popularity of an online phenomena which makes it “viral”. In this thesis we restrict ourselves to linear, univariate Hawkes process and compare exponential kernel to power law kernel along with developing a new approach to improve its eﬃciency.
